@@ -16,11 +16,7 @@
 -   💞 tenho 92k e 1,72cm
 - 🍕 gosto de comer pizza
 - 🌧 amo dias de chuva
+
 👩‍🔬 Estou aprendendo:
-https://github.com/anarru/readme-template/commit/07b336a71a56cbfaccd384dcee466f7832c148fc#diff-d4a78e913ce035a30102c7a1ecfd8baaf639dc76fcfdd357b46221133af21fa0
-
-
- 
-
-
+<img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" /> 
 
