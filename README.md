@@ -17,5 +17,11 @@
 - 🍕 gosto de comer pizza
 - 🌧 amo dias de chuva
 
+👩‍🔬 Estou aprendendo:
 
--🖐  tchau 
+
+
+ 
+
+
+
